@@ -70,7 +70,6 @@
 ### 내 remote repository에 반영하기 ###
 
 - upstream으로 바로 push는 불가능하다(권한이 없어서.)
-
 - upstream으로 pull request를 보내기 전에 내 remote origin에 반영한다.
 
   `git push origin`
