@@ -80,11 +80,11 @@
 
 - log명령어로 commit 목록을 확인하고 reset 명령어를 통해 commit을 취소할 수 있다.
 
-`git reset HEAD        // 마지막 commit을 취소
+`git reset HEAD`        // 마지막 commit을 취소
 
-`git reset HEAD~2      // 마지막 2번의 commitm을 취소
+`git reset HEAD~2`      // 마지막 2번의 commitm을 취
 
-`git reset --hard HEAD // remote repository에 있는 마지막 commit 상태로 되돌린다. (주의: 변경된파일도 삭제됨)
+`git reset --hard HEAD` // remote repository에 있는 마지막 commit 상태로 되돌린다. (주의: 변경된파일도 삭제됨)
 
 
 
