@@ -4,6 +4,7 @@
 
 ## member
 <br/>
+
 ### 1기 (2019_2Q)
 
 - 김찬란
@@ -12,7 +13,7 @@
 
   - [외부 프로젝트에 우리의 흔적 남기기](git_노하우/README.md)
 
-  - [The Data Scientist's Toolbox Tutorial 2](2019_2Q/he_Data_Scientists_Toolbox_Tutorial_2.md)
+  - [The Data Scientist's Toolbox Tutorial 2](2019_2Q/The_Data_Scientists_Toolbox_Tutorial_2.md)
 
 - 이재경
 
