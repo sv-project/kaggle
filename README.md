@@ -26,3 +26,11 @@
 - 유재민
 
 ### 2기 (2019_3Q)
+
+- 김찬란
+
+- 이재훈
+
+- 이재경
+
+  - [Linear Algebra](2019_3Q/LinearAlgebra.ipynb)
