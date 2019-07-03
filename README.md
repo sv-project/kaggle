@@ -15,7 +15,7 @@
 
 - 이재경
 
-  - [Getting Started with a Movie Recommendation System 번역](2019_2Q/MovieRecommendationSystems.ipynb)
+  - [Getting Started with a Movie Recommendation System](2019_2Q/MovieRecommendationSystems.ipynb)
 
 - 박민우
 
@@ -28,6 +28,8 @@
 ### 2기 (2019_3Q)
 
 - 김찬란
+
+  - [Keras Multiple Output Solution ](2019_2Q/Keras_NN_for_CHAMPS.ipynb)
 
 - 이재훈
 
